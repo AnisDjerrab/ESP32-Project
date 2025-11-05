@@ -1,0 +1,15 @@
+# ignore all PatformIO useless stuff
+ESP32/.vscode
+ESP32/include
+ESP32/lib
+ESP32/test
+ESP32/.pio
+.vscode
+
+# ignore all executable formats
+*.bin
+*.elf
+*.hex
+*.map
+*.o
+*.log
